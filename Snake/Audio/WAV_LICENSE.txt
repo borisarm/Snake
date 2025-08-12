@@ -5,3 +5,6 @@ Place your WAV assets here:
 - music.wav      (looped background music)
 
 Recommended: CC0/CC-BY sounds or your own original content.
+
+
+The samples under orginlas folders are from https://freesound.org/
