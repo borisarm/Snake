@@ -1,0 +1,7 @@
+Each WAV file in this directory must be properly licensed for redistribution in this repository.
+Place your WAV assets here:
+- eat.wav        (short effect when food is eaten)
+- gameover.wav   (effect on game over)
+- music.wav      (looped background music)
+
+Recommended: CC0/CC-BY sounds or your own original content.

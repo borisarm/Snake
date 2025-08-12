@@ -1,0 +1,66 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug*/
+Release*/
+x64/
+x86/
+ARM*/
+*.log
+*.tlog
+*.ipdb
+*.iobj
+*.ilk
+*.pdb
+*.rsp
+*.tmp
+*.temp
+*.cache
+*.pch
+*.idb
+*.res
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.appx
+*.msix
+*.msixupload
+*.appxupload
+
+# Database files
+*.sdf
+*.opensdf
+*.opendb
+*.db
+
+# Intellisense
+ipch/
+
+# Packages
+packages/
+*.nupkg
+
+# vcpkg
+vcpkg_installed/
+vcpkg*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash dumps
+*.dmp
